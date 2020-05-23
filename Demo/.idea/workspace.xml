@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbf92ca9-c40b-4958-9666-9c5ba368a4ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cbf92ca9-c40b-4958-9666-9c5ba368a4ba" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +59,16 @@
           <entry key="JAVA" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="5" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
@@ -111,7 +118,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="636" />
     <option name="y" value="72" />
     <option name="width" value="1944" />
@@ -156,7 +163,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590275049499" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590275357753" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -210,12 +217,20 @@
       <workItem from="1590106043188" duration="7814000" />
       <workItem from="1590194768140" duration="3772000" />
       <workItem from="1590272437411" duration="635000" />
-      <workItem from="1590274651095" duration="398000" />
+      <workItem from="1590274651095" duration="724000" />
     </task>
+    <task id="LOCAL-00001" summary="qwqwq">
+      <created>1590275280667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590275280667</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14643000" />
+    <option name="totallyTimeSpent" value="14969000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
@@ -256,6 +271,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="qwqwq" />
+    <option name="LAST_COMMIT_MESSAGE" value="qwqwq" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://E:/live_demo/iLive-java-token-sdk-1.0.0/ilive/iLive-java-token-sdk-1.0.0.jar!/com/huawei/rtc/RtcTokenBuilder.class">
