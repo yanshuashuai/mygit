@@ -15,6 +15,7 @@ public class WebSocketDemo {
         Request request = new Request();
         try {
             request.setKey("apigateway_sdk_demo_key");
+
             request.setSecret("apigateway_sdk_demo_secret");
             request.setMethod("GET");
             request.setUrl("https://30030113-3657-4fb6-a7ef-90764239b038.apigw.cn-north-1.huaweicloud.com/ws?name=value");

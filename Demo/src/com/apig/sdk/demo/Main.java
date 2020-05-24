@@ -44,7 +44,7 @@ public class Main {
             return;
         }
 
-        CloseableHttpClient client = null;
+        CloseableHttpClient client =  null;
         try {
             //Sign the request.
             HttpRequestBase signedRequest = Client.sign(request);
