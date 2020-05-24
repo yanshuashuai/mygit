@@ -14,7 +14,7 @@ public class WebSocketDemo {
         //Create a new request.
         Request request = new Request();
         try {
-            request.setKey("   apigateway_sdk_demo_key");
+            request.setKey("apigateway_sdk_demo_key");
 
             request.setSecret("apigateway_sdk_demo_secret");
             request.setMethod("GET");
